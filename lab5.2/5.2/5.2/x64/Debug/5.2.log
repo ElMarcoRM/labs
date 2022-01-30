@@ -1,0 +1,6 @@
+﻿  Laba5.2.cpp
+  Matrix.cpp
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.2\Matrix.cpp(166,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.2\Matrix.cpp(174,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  5.2.vcxproj -> C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.2\5.2\x64\Debug\5.2.exe

@@ -1,0 +1,13 @@
+﻿  Circle.cpp
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.4\Circle.cpp(44,13): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.4\Circle.cpp(48,13): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.4\Circle.cpp(52,13): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  CircleSquare.cpp
+  Laba5.4.cpp
+  Position.cpp
+  Square.cpp
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.4\Square.cpp(44,13): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.4\Square.cpp(48,13): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.4\Square.cpp(52,13): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Generating Code...
+  5.4.vcxproj -> C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.4\5.4\x64\Debug\5.4.exe

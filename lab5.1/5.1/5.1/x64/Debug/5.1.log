@@ -1,0 +1,5 @@
+﻿  Laba5.1.cpp
+  Matrix.cpp
+C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.1\Matrix.cpp(95,24): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  5.1.vcxproj -> C:\Users\mroja\OneDrive\Imágenes\trabajos lp\labs\lab5.1\5.1\x64\Debug\5.1.exe

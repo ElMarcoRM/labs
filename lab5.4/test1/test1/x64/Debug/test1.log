@@ -1,0 +1,4 @@
+﻿  DBRecord.cpp
+  Functional.cpp
+  Generating Code...
+C:\Users\mroja\Videos\test\DBRecord.cpp(71): error C4716: 'operator<<': must return a value
